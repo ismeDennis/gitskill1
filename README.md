@@ -1,5 +1,6 @@
 #gitskill1
-creating a new branch is quick & simple. Vivian
+<<<<<<< HEAD
+creating a new branch is quick & simple. Vivian Dennis
 add merge
 add merge 2
 add merge 3
